@@ -1,4 +1,4 @@
-# Responsive-E-Commerce 😎
+# Responsive-E-Commerce 
 
 ## An E-Commerce demo site using HTML, CSS and JS. Based on Coding Snow tutorial !
 
