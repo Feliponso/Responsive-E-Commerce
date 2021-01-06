@@ -1,7 +1,8 @@
 # Responsive-E-Commerce
+
 ## An E-Commerce demo site using HTML, CSS and JS.
 
-### You can check the site and a snapshot of my workspace by clicking at this link (login with GitHub): 
+### You can check the site and a snapshot of my workspace by clicking at this link (alt + m to maximize): 
   ### https://gitpod.io/#snapshot/ec606c0b-333c-4516-a5b6-e4d57ee2600f
  
 
